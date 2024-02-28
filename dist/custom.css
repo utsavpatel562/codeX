@@ -1,0 +1,11 @@
+/* CSS which you need for blurred box */
+body{
+    overflow: hidden;
+ background-size: cover;
+ background-image:url(http://bit.ly/2gPLxZ4);
+ letter-spacing: 0.02em;
+ -webkit-font-smoothing: antialiased; 
+}
+a{
+    text-decoration: none;
+}
